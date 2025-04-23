@@ -22,7 +22,7 @@ local function checkSupportedMode()
             -- fast execute loadstring for supported place
             coroutine.wrap(function()
                 pcall(function()
-                    loadstring(game:HttpGet("https://raw.githubusercontent.com/GlibShark/bibaexec/refs/heads/main/game/" .. placeId .. "/loader.lua"))()
+                    loadstring(game:HttpGet("https://raw.githubusercontent.com/GlibShark/anynamehub/refs/heads/main/game/" .. placeId .. "/loader.lua"))()
                 end)
             end)()
             return "Type: supported"
