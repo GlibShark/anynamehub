@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GlibShark/bibaexec/refs/heads/main/game/537413528/msg.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GlibShark/bibaexec/refs/heads/main/game/537413528/autofarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GlibShark/anynamehub/refs/heads/main/game/537413528/msg.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GlibShark/anynamehub/refs/heads/main/game/537413528/autofarm.lua"))()
